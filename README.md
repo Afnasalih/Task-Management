@@ -23,7 +23,8 @@ The application should allow users to add, view, update, and delete tasks.
  #### task list are displayed.
  #### Implement form validation for required fields.
  #### filtered of tasks by priority level.
-####  On Task creation used fields for title, description, priority (dropdown), and due date (date picker)
+ ####  On Task creation used fields for title, description, priority (dropdown), and due date (date picker)
+ #### Drag and Drop is not Working 
 
  
  
