@@ -17,13 +17,13 @@ The application should allow users to add, view, update, and delete tasks.
  #### React Router for a seamless user experience.
 
 ## Todo
- New Tasks can Add by using add item button.
- Each Task can be edited.
- Each Task can be  deleted with confirmation dialogue.
- task list are displayed.
- Implement form validation for required fields.
- filtered of tasks by priority level.
- On Task creation used fields for title, description, priority (dropdown), and due date (date picker)
+ #### New Tasks can Add by using add item button.
+ #### Each Task can be edited.
+ #### Each Task can be  deleted with confirmation dialogue.
+ #### task list are displayed.
+ #### Implement form validation for required fields.
+ #### filtered of tasks by priority level.
+####  On Task creation used fields for title, description, priority (dropdown), and due date (date picker)
 
  
  
