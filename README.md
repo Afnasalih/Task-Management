@@ -26,6 +26,9 @@ The application should allow users to add, view, update, and delete tasks.
  ####  On Task creation used fields for title, description, priority (dropdown), and due date (date picker)
  #### Drag and Drop is not Working 
 
+
+### The website hosted on Netlify
+https://task-management-sgbi.netlify.app/
  
  
 
